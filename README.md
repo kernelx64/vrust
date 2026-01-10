@@ -18,3 +18,4 @@ This project is part of my 2026 learning journey into Rust. It runs on my Linux 
 
 ---
 *Developed by Adelino Saldanha as a personal achievement project.*
+*www.adelinosaldanha.site/vrust
